@@ -1,12 +1,14 @@
-"quotes": [
-    {
-        "no": "et sitat",
-        "en": "a quote",
-        "auth": "Henrik Ibsen"
-    },
-    {
-        "no": "et annet sitat",
-        "en": "another quote",
-        "auth": "Knut Hamsun"
-    },
-]
+{
+    "quotes": [
+        {
+            "no": "et sitat",
+            "en": "a quote",
+            "auth": "Henrik Ibsen"
+        },
+        {
+            "no": "et annet sitat",
+            "en": "another quote",
+            "auth": "Knut Hamsun"
+        }
+    ]
+}
