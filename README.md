@@ -1,2 +1,2 @@
 # dryquotes
-Pair-of-quotes from Ibsen and other greats authors in norwegian and english. This repository is used by the promiscuous automation framework DryDeploy (https://github.com/bjoernf73/DryDeploy). My son, the maintainer of DryDeploy, forces his poor dad to maintain this repository without any pay whatsoever. 
+Pair-of-quotes from Ibsen and other greats authors in norwegian and english. This repository is used by the promiscuous automation framework DryDeploy (https://github.com/bjoernf73/DryDeploy). My son, bjoernf73, the creator of DryDeploy, forces his poor old dad to maintain this repository without any pay whatsoever. Unless I produce 3 quotes a day, he will refuse to drive me down to Vinmonopolet to by BiB. 
